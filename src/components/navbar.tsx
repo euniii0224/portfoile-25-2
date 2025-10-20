@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 export default function Navbar() {
   return (
-    <nav className="fixed top-0 left-0 w-full z-10 bg-gray-900 backdrop-blur-md border-b border-gray-200">
+    <nav className="fixed top-0 left-0 w-full z-10 bg-gray-700 backdrop-blur-md border-b border-gray-200">
       <div className="max-w-7xl mx-auto flex justify-between items-center py-4 px-6">
         {/* 로고 / 이름 */}
         <Link href="/" className="text-xl font-bold text-gray-200">
