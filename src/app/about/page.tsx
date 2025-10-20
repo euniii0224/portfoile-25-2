@@ -14,7 +14,7 @@ export default function AboutPage() {
 
       <InfoCard title="이름" content="원종은" />
       <InfoCard title="생년월일" content="2005.02.24" />
-      <InfoCard title="연락처" content="010-2213-8691" />
+      <InfoCard title="연락처" content="010-0000-0000" />
       <InfoCard title="이메일" content="wjy2024@gmail.com" />
       <InfoCard title="학력" content="중부대학교 정보보호학전공" />
 

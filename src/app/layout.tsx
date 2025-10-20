@@ -11,7 +11,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ko">
-      <body className="font-sans bg-white text-gray-900">
+      <body className="font-sans bg-white text-gray-700">
         <Navbar />
         {/* Navbar 높이만큼 padding */}
         <main className="pt-20">{children}</main>

@@ -28,7 +28,7 @@ export default function Home() {
       <div className="mt-10 flex gap-4">
         <a
           href="/projects"
-          className="px-6 py-3 bg-gray-900 text-white hover:bg-gray-700 rounded-full font-semibold transition-all duration-200"
+          className="px-6 py-3 bg-gray-800 text-white hover:bg-gray-700 rounded-full font-semibold transition-all duration-200"
         >
           프로젝트 보기
         </a>
