@@ -45,6 +45,48 @@ export default async function RepoDirs({ name }: RepoProps) {
         label: 'clerk-app 페이지 바로가기',
       },
     ],
+    'FINAL-TEAMPROJECT': [
+      {
+        img: '/images/FINAL-TEAMPROJECT.png',
+        link: 'https://final-teamproject.vercel.app/',
+        label: 'FINAL-TEAMPROJECT 페이지 바로가기',
+      },
+    ],
+    'FINAL-PORTFOLIO': [
+      {
+        img: '/images/FINAL-PORTFOLIO.png',
+        link: 'https://final-portfolio-liard.vercel.app/',
+        label: 'FINAL-PORTFOLIO 페이지 바로가기',
+      },
+    ],
+    TeamProject: [
+      {
+        img: '/images/TeamProject.png',
+        link: 'https://team-project-blue.vercel.app/',
+        label: 'TeamProject 페이지 바로가기',
+      },
+    ],
+    PORTFOLIO: [
+      {
+        img: '/images/PORTFOLIO.png',
+        link: 'https://portfolio-six-alpha-99.vercel.app/',
+        label: 'PORTFOLIO 페이지 바로가기',
+      },
+    ],
+    HEMLPRAC: [
+      {
+        img: '/images/HEMLPRAC.png',
+        link: 'https://hemlprac.vercel.app/',
+        label: 'HEMLPRAC 페이지 바로가기',
+      },
+    ],
+    HCJDEMO: [
+      {
+        img: '/images/HCJDEMO.png',
+        link: 'https://hcjdemo-lemon.vercel.app/',
+        label: 'HCJDEMO 페이지 바로가기',
+      },
+    ],
   }
 
   const previews = projectPreviews[name] || []

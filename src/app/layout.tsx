@@ -1,3 +1,5 @@
+'use client'
+
 import Navbar from '@/components/navbar'
 import './globals.css'
 import { config } from '@fortawesome/fontawesome-svg-core'

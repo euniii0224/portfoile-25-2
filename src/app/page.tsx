@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <main className="min-h-screen flex flex-col justify-center items-center text-center bg-white text-gray-900 px-4">
+    <main className="min-h-screen flex flex-col justify-center items-center text-center bg-white text-gray-800 px-4">
       <Image
         src="/images/홈.png"
         alt="Won Jong Eun"
@@ -20,7 +20,7 @@ export default function Home() {
       <p className="text-lg md:text-xl text-gray-500 max-w-xl leading-relaxed">
         {/* 안냐세요 👋{' '} */}
         <strong className="text-gray-800">
-          Web Programming | My PORTFOILE{' '}
+          Web Programming | My PORTFOILO{' '}
         </strong>
       </p>
 
@@ -33,7 +33,7 @@ export default function Home() {
           프로젝트 보기
         </a>
         <a
-          href="/contact"
+          href="/about"
           className="px-6 py-3 border border-gray-800 text-gray-800 hover:bg-gray-100 rounded-full font-semibold transition-all duration-200"
         >
           정보보기

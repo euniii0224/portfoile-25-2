@@ -25,7 +25,7 @@ export default function AboutPage() {
             href="https://github.com/euniii0224"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center  hover:text-blue-800 hover:underline transition-colors"
+            className="flex items-center  hover:text-gray-800 hover:underline transition-colors"
           >
             github.com/euniii0224
           </a>
