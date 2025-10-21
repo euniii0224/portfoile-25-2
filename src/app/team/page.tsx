@@ -10,7 +10,7 @@ const teamMembers = [
     image: '/images/min2.png',
     description: '92410756',
     github: 'https://github.com/minyeong0125',
-    Homepage: 'https://github.com/minyeong0125',
+    Homepage: 'https://mid-portfolio-gamma.vercel.app/',
   },
   {
     name: '송미강',
@@ -26,7 +26,7 @@ const teamMembers = [
     image: '/images/duk01.png',
     description: '92410823',
     github: 'https://github.com/euniii0224',
-    Homepage: 'https://github.com/euniii0224',
+    Homepage: 'https://portfoile-25-2.vercel.app/',
   },
   {
     name: '이성혜',
